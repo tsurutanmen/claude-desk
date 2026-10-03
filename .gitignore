@@ -1,0 +1,10 @@
+venv/
+models/
+__pycache__/
+*.tmp
+wake.log
+wake.config.json
+wallpaper/key.js
+talks/
+desk.config.json
+voicevox.path

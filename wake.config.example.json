@@ -1,0 +1,10 @@
+{
+  "device": null,
+  "bridge_dir": "C:/path/to/session-bridge",
+  "dots_url": "http://127.0.0.1:8790/api/chat",
+  "voicevox_speaker": 3,
+  "voicevox_speed": 1.3,
+  "pause_when": ["VALORANT-Win64-Shipping.exe"],
+  "gain": 8,
+  "debug": false
+}
